@@ -70,7 +70,7 @@ export function Countdown() {
                     disabled
                     className={styles.CountdownButton}
                 >
-                    Ciclo encerrado.
+                    Ciclo encerrado. <img src="icons/check.svg" />
                 </button>
             ) : (
                     <>
